@@ -1,0 +1,29 @@
+Thank you for choosing PDF Flip Book Converter!
+
+This is a basic Instructions file. 
+If you need further support please don’t hesitate to e-mail us at contact@p-flip.com
+
+------------------------------------------------------------------------------------------------------------
+
+1. To convert your .PDF file you need to replace/overwrite the existing “PDF.pdf“ file with your own file.
+2. If you want to use your own background image you can update the existent bg.jpg with your own choice.
+3. For your company logo you need to update the logo.png image or in case you don’t want to use a logo you can delete the file.
+
+Even if the PDF Converter does not have a limitation on file size it is recommended that you use on optimized web version of the file. 
+You can prepare an optimized PDF file / reduced it’s size for free at this address:
+http://smallpdf.com/compress-pdf
+
+Once you complete your flip book you can connect to your web server FTP and upload the project to a new folder:
+Ex: www.YourSiteName.com/FlipBookName/
+
+You can also test your work offline (from your computer) on a Firefox browser.
+In case you don’t have it install you can download for free from this location:
+https://www.mozilla.org/en-US/firefox/new/
+
+Once you will upload on your web server it will load on any current web browser. 
+
+If you have more then one PDF to convert you can duplicate the project and use new PDF files.
+
+
+PDF Flip Book Converter,
+www.PDF-flip.com

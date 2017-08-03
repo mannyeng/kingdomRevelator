@@ -1,0 +1,23 @@
+/**
+ *
+ * Apply Here your Custom CSS
+ *
+*/
+
+body {
+}
+@media print {
+ @page {
+ size: auto;   /* auto is the current printer page size */
+ margin: 0mm;  /* this affects the margin in the printer settings */
+}
+.page-container {
+	padding-left: 0 !important;
+}
+.main-content .row, .main-content hr {
+	display: none !important;
+}
+.page-container .main-content {
+	padding: 0 !important;
+}
+}

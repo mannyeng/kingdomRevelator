@@ -1,0 +1,10 @@
+[02-Nov-2016 09:24:20 US/Eastern] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/krusa/public_html/beta/application/controllers/Mail.php on line 21
+[02-Nov-2016 09:28:36 US/Eastern] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/krusa/public_html/beta/application/controllers/Mail.php on line 21
+[02-Nov-2016 09:33:48 US/Eastern] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/krusa/public_html/beta/application/controllers/Mail.php on line 21
+[02-Nov-2016 09:35:08 US/Eastern] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/krusa/public_html/beta/application/controllers/Mail.php on line 21
+[02-Nov-2016 09:35:11 US/Eastern] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/krusa/public_html/beta/application/controllers/Mail.php on line 21
+[03-Nov-2016 01:03:26 US/Eastern] PHP Fatal error:  Call to undefined function form() in /home/krusa/public_html/beta/application/controllers/Mail.php on line 12
+[03-Nov-2016 06:02:12 US/Eastern] PHP Fatal error:  Call to undefined function form() in /home/krusa/public_html/beta/application/controllers/Mail.php on line 12
+[04-Nov-2016 05:10:52 US/Eastern] PHP Parse error:  syntax error, unexpected ')' in /home/krusa/public_html/beta/application/controllers/Prayer.php on line 69
+[04-Nov-2016 05:13:27 US/Eastern] PHP Parse error:  syntax error, unexpected ')' in /home/krusa/public_html/beta/application/controllers/Prayer.php on line 69
+[05-Nov-2016 02:26:14 US/Eastern] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/krusa/public_html/beta/application/controllers/User.php on line 578

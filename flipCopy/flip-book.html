@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>KINGDOM REVELATOR | PREVIEW</title>
+<link rel="shortcut icon" href="../favicon.png">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+
+    <script src="js/flipbook.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="css/flipbook.style.css">
+    <link rel="stylesheet" type="text/css" href="css/flipbook.skin.black.css">
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            $("#container").flipBook({
+				
+                pages:[
+				                    {
+						
+                        src:"images/book4/1.jpg",
+                        thumb:"images/book4/1.jpg",
+                        title:"Cover",
+                       },
+                    {
+                        src:"images/book4/2.jpg",
+                        thumb:"images/book4/2.jpg",
+						 title:"Page two"
+                    },
+                    {
+                        src:"images/book4/3.jpg",
+                        thumb:"images/book4/3.jpg",
+                        title:"Page three"
+                    },
+                    {
+                        src:"images/book4/4.jpg",
+                        thumb:"images/book4/4.jpg",
+                        title:"Page four"
+                    },
+                    {
+                        src:"images/book4/5.jpg",
+                        thumb:"images/book4/5.jpg",
+						 title:"Page five"
+						
+                    },
+                    {
+                        src:"images/book4/6.jpg",
+                        thumb:"images/book4/6.jpg",
+                        title:"End"
+                    }
+                ]
+            });
+        })
+    </script>
+
+</head>
+
+<body>
+<div id="container"></div>
+</body>
+
+</html>
